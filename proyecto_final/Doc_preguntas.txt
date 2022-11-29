@@ -1,0 +1,77 @@
+
+ Fecha de juego: 2022-10-18 02:25:51.587733
+ Pregunta asignada: ¿ ¿Verdadero o falso? Una división entera es aquella en la que el resto es cero?
+ Respuesta del usuario: verdadero
+ Respuesta correcta: falso
+ Fecha de juego: 2022-10-18 02:26:52.808560
+ Pregunta asignada: ¿Expresa 7 kg y 670 g en gramos?
+ Respuesta del usuario: 7670
+ Respuesta correcta: 7670
+ Fecha de juego: 2022-10-18 02:27:07.773613
+ Pregunta asignada: ¿Qué número resulta si divides 56 entre 7?
+ Respuesta del usuario: 9
+ Respuesta correcta: 9
+ Fecha de juego: 2022-10-18 03:19:24.765401
+ Pregunta asignada: ¿Escribe con números esta fracción: cinco séptimos?
+ Respuesta del usuario: 5/7
+ Respuesta correcta: 5/7
+
+ Fecha de juego: 2022-10-18 03:20:41.675600
+ Pregunta asignada: ¿Aproxima el número 58 a la decena?
+ Respuesta del usuario: 9
+ Respuesta correcta: 60
+
+ Fecha de juego: 2022-10-18 03:21:00.819761
+ Pregunta asignada: ¿Escribe con números esta fracción: cinco séptimos?
+ Respuesta del usuario: 5/7
+ Respuesta correcta: 5/7
+
+ Fecha de juego: 2022-10-18 03:21:11.168362
+ Pregunta asignada: ¿Cálculo mental rápido: cuánto es 14000 entre 10?
+ Respuesta del usuario: 1400
+ Respuesta correcta: 1400
+
+ Fecha de juego: 2022-10-18 03:21:43.139710
+ Pregunta asignada: ¿Qué número resulta si divides 56 entre 7?
+ Respuesta del usuario: 9
+ Respuesta correcta: 9
+
+ Fecha de juego: 2022-10-18 03:21:52.133149
+ Pregunta asignada: ¿ ¿Verdadero o falso? Una división entera es aquella en la que el resto es cero?
+ Respuesta del usuario: falso
+ Respuesta correcta: falso
+
+ Fecha de juego: 2022-10-18 19:05:23.450320
+ Pregunta asignada: ¿Como se llama el triangulo de lados igiuales?
+ Respuesta del usuario: equilatero
+ Respuesta correcta: equilatero
+
+ Fecha de juego: 2022-10-18 19:05:43.278907
+ Pregunta asignada: ¿Cálculo mental rápido: cuánto es 6x8 menos cuatro?
+ Respuesta del usuario: 44
+ Respuesta correcta: 44
+
+ Fecha de juego: 2022-11-28 20:46:11.555112
+ Pregunta asignada: ¿Qué número resulta si divides 56 entre 7?
+ Respuesta del usuario: 8
+ Respuesta correcta: 9
+
+ Fecha de juego: 2022-11-28 20:46:22.749266
+ Pregunta asignada: ¿Qué número resulta si divides 56 entre 7?
+ Respuesta del usuario: 8
+ Respuesta correcta: 9
+
+ Fecha de juego: 2022-11-28 20:46:47.471794
+ Pregunta asignada: ¿Como se llama el triangulo de lados igiuales?
+ Respuesta del usuario: equilatero
+ Respuesta correcta: equilatero
+
+ Fecha de juego: 2022-11-28 20:47:07.123069
+ Pregunta asignada: ¿Cuanto es la raiz de 121?
+ Respuesta del usuario: 11
+ Respuesta correcta: 11
+
+ Fecha de juego: 2022-11-28 21:03:13.191809
+ Pregunta asignada: ¿Expresa 7 kg y 670 g en gramos?
+ Respuesta del usuario: 7670
+ Respuesta correcta: 7670
